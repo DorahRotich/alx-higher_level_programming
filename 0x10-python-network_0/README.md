@@ -1,0 +1,12 @@
+# 0x10-python_network_0
+In this project I learnt about:
+- What a URL is
+- What HTTP is
+- How to read a URL
+- The scheme for a HTTP URL
+- What a domain name is
+- What a subdomain is
+- How to define a port number in a URL
+- What a querry staring is
+- WHat a HTTP request is 
+- What an HTTP response is
